@@ -1,4 +1,4 @@
-# SMU_CaseStudy_6_IndoorPositioning
+# SMU_CaseStudy_6_IndoorPositioning (R)
 
 Case study for MS Data Science. Work done in collaboration with Kevin Cannon.
 
